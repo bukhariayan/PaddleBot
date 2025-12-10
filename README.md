@@ -1,2 +1,5 @@
-# PiHover
-Pi hover is a innovative hovercraft project that will be capable of autonomous navigation using sensors such as IMUs, Time of Flight(ToF) sensors, and cameras. The goal of this projet is to fuse my love of embedded programming, electronic components, and physics to create a fun and educational engineering project.
+# PaddleBot
+PaddleBot is a miniature robotic arm designed to be able to play ping pong. It will achieve this autonomously 
+by emplying OpenCV, and open source computer vision library. By using inverse kinematics and simple physics equations, 
+it can correctly predict the ball's location in order to send it back to the opponent. The goal for this project is to 
+improve my skills in programming, hardware design, and physics.
